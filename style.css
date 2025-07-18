@@ -1,0 +1,51 @@
+.navbar{
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.nav-get{
+    width: 150px;
+    height: 20px;
+    background-color: red;
+}
+.nav-port{
+    width: 30%;
+}
+/*hero section*/
+.hero{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(240, 248, 255);
+}
+.hero-content{
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+.hero-detail{
+    width: 300px;
+}
+.hero-name{
+    font-size: 2rem;
+    color: blue;
+    font-weight: 1rem;
+}
+.hero-detail{
+    font-size: 1rem;
+}
+.hero-last a{
+    margin-left: 50px;
+}
+.hero-image{
+    background-image: url(WhatsApp\ Image\ 2025-07-14\ at\ 18.55.56_44c2c3e8.jpg);
+    height: 300px;
+    width: 250px;
+    position: absolute;
+    top: 240px;
+    left: 800px;
+    background-size: cover;
+}
